@@ -14,6 +14,7 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 
 == Blogs, Tweets, Videos and other community news
 
+* https://grails.org/blog/2021-04-07-publish-grails-plugin-to-maven-central.html[Publish Grails Plugin To Maven Central]
 * https://objectcomputing.com/news/2020/10/26/new-grails-foundation-announced[Grails Foundation announced]
 * https://grails.org/blog/2021-03-22-meet-the-new-mascot.html[Grails mascot announced]
 * Android Groovy Shell, https://tambapps.github.io/groovy-shell-user-manual/[user manual]. Adapted GroovySh to Android.
@@ -49,4 +50,4 @@ As always, here is the https://nofluffjuststuff.com/groovypodcast[home page] for
 * Baruch Sadogursky twitter: @jbaruch, w: http://www.jfrog.com
 * Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
 * Jenn Strater twitter: @codeJENNerator, w: https://www.jennstrater.com
-* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
+* Sergio del Amo twitter: @sdelamo, w: https://sergiodelamo.com
